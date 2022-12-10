@@ -11,7 +11,7 @@
     "build": "node server"
   },
   "dependencies": {
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
   },
